@@ -1,0 +1,8 @@
+Name,Age,Gender,PNR,STATUS
+
+danu,18,f,0,ACTIVE
+ritu,19,f,0,ACTIVE
+ritu,27,F,0,ACTIVE
+danu,29,F,0,ACTIVE
+amru,18,F,0,ACTIVE
+Elatchya,18,F,0,ACTIVE

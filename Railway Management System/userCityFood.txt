@@ -1,0 +1,2 @@
+PNR,FOOD CHOICE,QUANTITY
+6641728723,Simple Non-Veg Thali,26925611894,Special Non-Veg Thali,15062094305,Special Veg Thali,10,Special Veg Thali,20,Special Non-Veg Thali,20,Dosa(variety of the day),2

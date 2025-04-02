@@ -1,0 +1,24 @@
+TRAIN ID,TRAIN NAME,START STATE,START STATION,END STATE,END STATION,DISTANCE,DEPARTURE,ARRIVAL,FARE,TIME
+18189,Ernakulam Express,Tamilnadu,Perambur,Kerala,Thirussur,457.0,12:25,23:55,440,11h 30m
+16159,Mangaluru Express,Tamilnadu,Mambalam,Kerala,Shoranur,630.0,23:28,12:30,255,13h 2m
+16614,Rajkot Express,Tamilnadu,Coimbatore,Karnataka,Bangalore,490.0,0:15,06:58,435,6h 43m
+22666,UDAY Express,Tamilnadu,Coimbatore,Karnataka,Bangalore,340.0,05:45,12:40,600,6h 55m
+17651,Kacheguda Express,Tamilnadu,Chennai,Telangana,Hyderabad,540.0,16:40, 07:50,250,15h 10m
+12759,Charminar Express,Tamilnadu,Chennai,Telangana,Hyderabad,123.0,18:05, 08:10,230,14h 5m
+17312,SF Express,Karnataka,Bangalore,Tamilnadu,Chennai,231.0,04:45,11:03,265,6h 18m
+12028,Shatabdi Express,Karnataka,Bangalore,Tamilnadu,Chennai,232.0,06:00,11:00,760,5h 0m
+16188,Karaikkal Express,Kerala,Thirussur,Tamilnadu,Erode,234.0,00:15,04:50,175,4h 35m
+16381,KanyaKumari Express,Kerala,Thirussur,Tamilnadu,Nagercoil,123.0,05:45,13:50,400,8h 5m
+16328,Madurai Express,Kerala,Guruvayur,TamilNadu,Madurai,432.0,06:20,19:15,155,12h 55m
+16315,Kochuveli central Express,Tamilnadu,Coimbatore,Kerala,Palakkad,346.0,00:15,1:30,250,1h 15m
+16187,Ernakulam Express,Tamilnadu,Coimbatore,Kerala,Palakkad,453.0,1:25,3:07,175,1h 42m
+16527,Kannur Express,Tamilnadu,Coimbatore,Kerala,Palakkad,246.0,3:30,4:50,190,1h 20m
+22639,Alappuzha SF Express,Tamilnadu,Coimbatore,Kerala,Palakkad,345.0,4:15,5:15,350,1h 0m
+22647,Kochuveli Express,Tamilnadu,Coimbatore,Kerala,Palakkad,239.0,6:50,7:55,400,1h 5m
+13351,Alappuzha Express,Tamilnadu,Coimbatore,Kerala,Palakkad,560.0,8:35,10:00,220,1h 25m
+16159,Mangaluru central Express,Tamilnadu,Tiruchirappalli,Kerala,Palakkad,350.0,4:50,11:20,255,6h 30m
+16843,Palakkad Express,Tamilnadu,Tiruchirappalli,Kerala,Palakkad,400.0,13:00,19:40,105,6h 40m
+16187,Ernakullam Express,Tamilnadu,Tiruchirappalli,Kerala,Palakkad,560.0,20:00,3:05,349,7h 5m
+11013, Coimbatore Express, Maharashtra,Mumbai,Tamilnadu,Coimbatore580,,22;35,6:50,600,32h 15m
+22475, Coimbatore SF Express,Karnataka,Udupi,Tamilnadu,Coimbatore,500.0,4:18,14:30,900,10h 12m
+22629,Tirunelveli SF Express,Karnataka,Udupi,Tamilnadu,Coimbatore,450.0,10:45,19:35,560,8h 55m

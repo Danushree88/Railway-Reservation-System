@@ -1,7 +1,0 @@
-PNR Number,Train ID,Train Name,From State,From Station,End state,End Station,Departure time,Arrival time,Distance,Ticket Fare,Time,Adults,Child,Status
-6925611894,16127,Guruvayur Express,Villupuram,Kanyakumari,12:15,22:20,300,420,10h 5m,120,0,ACTIVE,,
-5062094305,16352,CSMT Express,Kanyakumari,Villupuram,06:15,16:10,330,300,9h 55m,1.0,0,ACTIVE,,
-6253592116,16187,Ernakulam Express,Tamilnadu,Coimbatore,Kerala,Palakkad,1:25,3:07,453.0,175.0,1h 42m,2,0.0,ACTIVE
-4652514689,16159,Mangaluru Express,Tamilnadu,Mambalam,Kerala,Shoranur,23:28,12:30,630.0,255.0,13h 2m,2,0.0,ACTIVE
-7696363049,16381,KanyaKumari Express,Kerala,Thirussur,Tamilnadu,Nagercoil,05:45,13:50,123.0,400.0,8h 5m,2,0.0,ACTIVE
-6053042095,16315,Kochuveli central Express,Tamilnadu,Coimbatore,Kerala,Palakkad,00:15,1:30,346.0,250,1h 15m

@@ -1,2 +1,0 @@
-Name,Age,Gender,PNR,STATUS
-Ritu,17,F,5062094305,ACTIVE
